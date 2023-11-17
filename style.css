@@ -2,7 +2,7 @@ body {
   background-color: #212529;
 }
 
-h2 {
+btn btn-pill btn-danger {
   text-align: center;
   color: white;
 }
